@@ -1,27 +1,332 @@
-Not Found: /static/admin/css/fonts.css
-Not Found: /favicon.ico
-Not Found: /static/admin/css/base.css
-Not Found: /static/admin/css/nav_sidebar.css
-Not Found: /static/admin/css/login.css
-Not Found: /static/admin/css/responsive.css
-Not Found: /static/admin/js/nav_sidebar.js
-Not Found: /static/admin/css/base.css
-Not Found: /static/admin/css/nav_sidebar.css
-Not Found: /static/admin/css/login.css
-Not Found: /static/admin/css/responsive.css
-Not Found: /static/admin/js/nav_sidebar.js
-Not Found: /static/admin/css/base.css
-Not Found: /static/admin/css/nav_sidebar.css
-Not Found: /static/admin/css/login.css
-Not Found: /static/admin/js/nav_sidebar.js
-Not Found: /static/admin/css/responsive.css
-Not Found: /static/admin/css/base.css
-Not Found: /static/admin/css/login.css
-Not Found: /static/admin/css/nav_sidebar.css
-Not Found: /static/admin/css/responsive.css
-Not Found: /static/admin/js/nav_sidebar.js
-Not Found: /static/admin/css/base.css
-Not Found: /static/admin/css/nav_sidebar.css
-Not Found: /static/admin/css/dashboard.css
-Not Found: /static/admin/css/responsive.css
-Not Found: /static/admin/js/nav_sidebar.js
+Internal Server Error: /
+Traceback (most recent call last):
+  File "/home/rkboostc/virtualenv/django_test/3.7/lib/python3.7/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/rkboostc/virtualenv/django_test/3.7/lib/python3.7/site-packages/django/core/handlers/base.py", line 165, in _get_response
+    callback, callback_args, callback_kwargs = self.resolve_request(request)
+  File "/home/rkboostc/virtualenv/django_test/3.7/lib/python3.7/site-packages/django/core/handlers/base.py", line 288, in resolve_request
+    resolver_match = resolver.resolve(request.path_info)
+  File "/home/rkboostc/virtualenv/django_test/3.7/lib/python3.7/site-packages/django/urls/resolvers.py", line 547, in resolve
+    sub_match = pattern.resolve(new_path)
+AttributeError: 'list' object has no attribute 'resolve'
+Internal Server Error: /
+Traceback (most recent call last):
+  File "/home/rkboostc/virtualenv/django_test/3.7/lib/python3.7/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/rkboostc/virtualenv/django_test/3.7/lib/python3.7/site-packages/django/core/handlers/base.py", line 165, in _get_response
+    callback, callback_args, callback_kwargs = self.resolve_request(request)
+  File "/home/rkboostc/virtualenv/django_test/3.7/lib/python3.7/site-packages/django/core/handlers/base.py", line 288, in resolve_request
+    resolver_match = resolver.resolve(request.path_info)
+  File "/home/rkboostc/virtualenv/django_test/3.7/lib/python3.7/site-packages/django/urls/resolvers.py", line 547, in resolve
+    sub_match = pattern.resolve(new_path)
+AttributeError: 'list' object has no attribute 'resolve'
+Internal Server Error: /
+Traceback (most recent call last):
+  File "/home/rkboostc/virtualenv/django_test/3.7/lib/python3.7/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/rkboostc/virtualenv/django_test/3.7/lib/python3.7/site-packages/django/core/handlers/base.py", line 165, in _get_response
+    callback, callback_args, callback_kwargs = self.resolve_request(request)
+  File "/home/rkboostc/virtualenv/django_test/3.7/lib/python3.7/site-packages/django/core/handlers/base.py", line 288, in resolve_request
+    resolver_match = resolver.resolve(request.path_info)
+  File "/home/rkboostc/virtualenv/django_test/3.7/lib/python3.7/site-packages/django/urls/resolvers.py", line 547, in resolve
+    sub_match = pattern.resolve(new_path)
+AttributeError: 'list' object has no attribute 'resolve'
+Internal Server Error: /
+Traceback (most recent call last):
+  File "/home/rkboostc/virtualenv/django_test/3.7/lib/python3.7/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/rkboostc/virtualenv/django_test/3.7/lib/python3.7/site-packages/django/core/handlers/base.py", line 165, in _get_response
+    callback, callback_args, callback_kwargs = self.resolve_request(request)
+  File "/home/rkboostc/virtualenv/django_test/3.7/lib/python3.7/site-packages/django/core/handlers/base.py", line 288, in resolve_request
+    resolver_match = resolver.resolve(request.path_info)
+  File "/home/rkboostc/virtualenv/django_test/3.7/lib/python3.7/site-packages/django/urls/resolvers.py", line 547, in resolve
+    sub_match = pattern.resolve(new_path)
+AttributeError: 'list' object has no attribute 'resolve'
+Internal Server Error: /
+Traceback (most recent call last):
+  File "/home/rkboostc/virtualenv/django_test/3.7/lib/python3.7/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/rkboostc/virtualenv/django_test/3.7/lib/python3.7/site-packages/django/core/handlers/base.py", line 165, in _get_response
+    callback, callback_args, callback_kwargs = self.resolve_request(request)
+  File "/home/rkboostc/virtualenv/django_test/3.7/lib/python3.7/site-packages/django/core/handlers/base.py", line 288, in resolve_request
+    resolver_match = resolver.resolve(request.path_info)
+  File "/home/rkboostc/virtualenv/django_test/3.7/lib/python3.7/site-packages/django/urls/resolvers.py", line 547, in resolve
+    sub_match = pattern.resolve(new_path)
+AttributeError: 'list' object has no attribute 'resolve'
+Internal Server Error: /
+Traceback (most recent call last):
+  File "/home/rkboostc/virtualenv/django_test/3.7/lib/python3.7/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/rkboostc/virtualenv/django_test/3.7/lib/python3.7/site-packages/django/core/handlers/base.py", line 165, in _get_response
+    callback, callback_args, callback_kwargs = self.resolve_request(request)
+  File "/home/rkboostc/virtualenv/django_test/3.7/lib/python3.7/site-packages/django/core/handlers/base.py", line 288, in resolve_request
+    resolver_match = resolver.resolve(request.path_info)
+  File "/home/rkboostc/virtualenv/django_test/3.7/lib/python3.7/site-packages/django/urls/resolvers.py", line 547, in resolve
+    sub_match = pattern.resolve(new_path)
+AttributeError: 'list' object has no attribute 'resolve'
+Internal Server Error: /
+Traceback (most recent call last):
+  File "/home/rkboostc/virtualenv/django_test/3.7/lib/python3.7/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/rkboostc/virtualenv/django_test/3.7/lib/python3.7/site-packages/django/core/handlers/base.py", line 165, in _get_response
+    callback, callback_args, callback_kwargs = self.resolve_request(request)
+  File "/home/rkboostc/virtualenv/django_test/3.7/lib/python3.7/site-packages/django/core/handlers/base.py", line 288, in resolve_request
+    resolver_match = resolver.resolve(request.path_info)
+  File "/home/rkboostc/virtualenv/django_test/3.7/lib/python3.7/site-packages/django/urls/resolvers.py", line 547, in resolve
+    sub_match = pattern.resolve(new_path)
+AttributeError: 'list' object has no attribute 'resolve'
+Internal Server Error: /
+Traceback (most recent call last):
+  File "/home/rkboostc/virtualenv/django_test/3.7/lib/python3.7/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/rkboostc/virtualenv/django_test/3.7/lib/python3.7/site-packages/django/core/handlers/base.py", line 165, in _get_response
+    callback, callback_args, callback_kwargs = self.resolve_request(request)
+  File "/home/rkboostc/virtualenv/django_test/3.7/lib/python3.7/site-packages/django/core/handlers/base.py", line 288, in resolve_request
+    resolver_match = resolver.resolve(request.path_info)
+  File "/home/rkboostc/virtualenv/django_test/3.7/lib/python3.7/site-packages/django/urls/resolvers.py", line 547, in resolve
+    sub_match = pattern.resolve(new_path)
+AttributeError: 'list' object has no attribute 'resolve'
+Internal Server Error: /
+Traceback (most recent call last):
+  File "/home/rkboostc/virtualenv/django_test/3.7/lib/python3.7/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/rkboostc/virtualenv/django_test/3.7/lib/python3.7/site-packages/django/core/handlers/base.py", line 165, in _get_response
+    callback, callback_args, callback_kwargs = self.resolve_request(request)
+  File "/home/rkboostc/virtualenv/django_test/3.7/lib/python3.7/site-packages/django/core/handlers/base.py", line 288, in resolve_request
+    resolver_match = resolver.resolve(request.path_info)
+  File "/home/rkboostc/virtualenv/django_test/3.7/lib/python3.7/site-packages/django/urls/resolvers.py", line 547, in resolve
+    sub_match = pattern.resolve(new_path)
+AttributeError: 'list' object has no attribute 'resolve'
+Internal Server Error: /
+Traceback (most recent call last):
+  File "/home/rkboostc/virtualenv/django_test/3.7/lib/python3.7/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/rkboostc/virtualenv/django_test/3.7/lib/python3.7/site-packages/django/core/handlers/base.py", line 165, in _get_response
+    callback, callback_args, callback_kwargs = self.resolve_request(request)
+  File "/home/rkboostc/virtualenv/django_test/3.7/lib/python3.7/site-packages/django/core/handlers/base.py", line 288, in resolve_request
+    resolver_match = resolver.resolve(request.path_info)
+  File "/home/rkboostc/virtualenv/django_test/3.7/lib/python3.7/site-packages/django/urls/resolvers.py", line 547, in resolve
+    sub_match = pattern.resolve(new_path)
+AttributeError: 'list' object has no attribute 'resolve'
+Internal Server Error: /
+Traceback (most recent call last):
+  File "/home/rkboostc/virtualenv/django_test/3.7/lib/python3.7/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/rkboostc/virtualenv/django_test/3.7/lib/python3.7/site-packages/django/core/handlers/base.py", line 165, in _get_response
+    callback, callback_args, callback_kwargs = self.resolve_request(request)
+  File "/home/rkboostc/virtualenv/django_test/3.7/lib/python3.7/site-packages/django/core/handlers/base.py", line 288, in resolve_request
+    resolver_match = resolver.resolve(request.path_info)
+  File "/home/rkboostc/virtualenv/django_test/3.7/lib/python3.7/site-packages/django/urls/resolvers.py", line 547, in resolve
+    sub_match = pattern.resolve(new_path)
+AttributeError: 'list' object has no attribute 'resolve'
+Internal Server Error: /
+Traceback (most recent call last):
+  File "/home/rkboostc/virtualenv/django_test/3.7/lib/python3.7/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/rkboostc/virtualenv/django_test/3.7/lib/python3.7/site-packages/django/core/handlers/base.py", line 165, in _get_response
+    callback, callback_args, callback_kwargs = self.resolve_request(request)
+  File "/home/rkboostc/virtualenv/django_test/3.7/lib/python3.7/site-packages/django/core/handlers/base.py", line 288, in resolve_request
+    resolver_match = resolver.resolve(request.path_info)
+  File "/home/rkboostc/virtualenv/django_test/3.7/lib/python3.7/site-packages/django/urls/resolvers.py", line 547, in resolve
+    sub_match = pattern.resolve(new_path)
+AttributeError: 'list' object has no attribute 'resolve'
+Internal Server Error: /admin/
+Traceback (most recent call last):
+  File "/home/rkboostc/virtualenv/django_test/3.7/lib/python3.7/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/rkboostc/virtualenv/django_test/3.7/lib/python3.7/site-packages/django/core/handlers/base.py", line 179, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/rkboostc/virtualenv/django_test/3.7/lib/python3.7/site-packages/django/contrib/admin/sites.py", line 251, in wrapper
+    return self.admin_view(view, cacheable)(*args, **kwargs)
+  File "/home/rkboostc/virtualenv/django_test/3.7/lib/python3.7/site-packages/django/utils/decorators.py", line 130, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "/home/rkboostc/virtualenv/django_test/3.7/lib/python3.7/site-packages/django/views/decorators/cache.py", line 44, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+  File "/home/rkboostc/virtualenv/django_test/3.7/lib/python3.7/site-packages/django/contrib/admin/sites.py", line 233, in inner
+    return view(request, *args, **kwargs)
+  File "/home/rkboostc/virtualenv/django_test/3.7/lib/python3.7/site-packages/django/views/decorators/cache.py", line 44, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+  File "/home/rkboostc/virtualenv/django_test/3.7/lib/python3.7/site-packages/django/contrib/admin/sites.py", line 502, in index
+    app_list = self.get_app_list(request)
+  File "/home/rkboostc/virtualenv/django_test/3.7/lib/python3.7/site-packages/django/contrib/admin/sites.py", line 485, in get_app_list
+    app_dict = self._build_app_dict(request)
+  File "/home/rkboostc/virtualenv/django_test/3.7/lib/python3.7/site-packages/django/contrib/admin/sites.py", line 452, in _build_app_dict
+    model_dict['admin_url'] = reverse('admin:%s_%s_changelist' % info, current_app=self.name)
+  File "/home/rkboostc/virtualenv/django_test/3.7/lib/python3.7/site-packages/django/urls/base.py", line 55, in reverse
+    app_list = resolver.app_dict[ns]
+  File "/home/rkboostc/virtualenv/django_test/3.7/lib/python3.7/site-packages/django/urls/resolvers.py", line 522, in app_dict
+    self._populate()
+  File "/home/rkboostc/virtualenv/django_test/3.7/lib/python3.7/site-packages/django/urls/resolvers.py", line 457, in _populate
+    p_pattern = url_pattern.pattern.regex.pattern
+AttributeError: 'list' object has no attribute 'pattern'
+Internal Server Error: /admin/
+Traceback (most recent call last):
+  File "/home/rkboostc/virtualenv/django_test/3.7/lib/python3.7/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/rkboostc/virtualenv/django_test/3.7/lib/python3.7/site-packages/django/core/handlers/base.py", line 179, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/rkboostc/virtualenv/django_test/3.7/lib/python3.7/site-packages/django/contrib/admin/sites.py", line 251, in wrapper
+    return self.admin_view(view, cacheable)(*args, **kwargs)
+  File "/home/rkboostc/virtualenv/django_test/3.7/lib/python3.7/site-packages/django/utils/decorators.py", line 130, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "/home/rkboostc/virtualenv/django_test/3.7/lib/python3.7/site-packages/django/views/decorators/cache.py", line 44, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+  File "/home/rkboostc/virtualenv/django_test/3.7/lib/python3.7/site-packages/django/contrib/admin/sites.py", line 233, in inner
+    return view(request, *args, **kwargs)
+  File "/home/rkboostc/virtualenv/django_test/3.7/lib/python3.7/site-packages/django/views/decorators/cache.py", line 44, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+  File "/home/rkboostc/virtualenv/django_test/3.7/lib/python3.7/site-packages/django/contrib/admin/sites.py", line 502, in index
+    app_list = self.get_app_list(request)
+  File "/home/rkboostc/virtualenv/django_test/3.7/lib/python3.7/site-packages/django/contrib/admin/sites.py", line 485, in get_app_list
+    app_dict = self._build_app_dict(request)
+  File "/home/rkboostc/virtualenv/django_test/3.7/lib/python3.7/site-packages/django/contrib/admin/sites.py", line 452, in _build_app_dict
+    model_dict['admin_url'] = reverse('admin:%s_%s_changelist' % info, current_app=self.name)
+  File "/home/rkboostc/virtualenv/django_test/3.7/lib/python3.7/site-packages/django/urls/base.py", line 55, in reverse
+    app_list = resolver.app_dict[ns]
+  File "/home/rkboostc/virtualenv/django_test/3.7/lib/python3.7/site-packages/django/urls/resolvers.py", line 522, in app_dict
+    self._populate()
+  File "/home/rkboostc/virtualenv/django_test/3.7/lib/python3.7/site-packages/django/urls/resolvers.py", line 457, in _populate
+    p_pattern = url_pattern.pattern.regex.pattern
+AttributeError: 'list' object has no attribute 'pattern'
+Internal Server Error: /admin/
+Traceback (most recent call last):
+  File "/home/rkboostc/virtualenv/django_test/3.7/lib/python3.7/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/rkboostc/virtualenv/django_test/3.7/lib/python3.7/site-packages/django/core/handlers/base.py", line 179, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/rkboostc/virtualenv/django_test/3.7/lib/python3.7/site-packages/django/contrib/admin/sites.py", line 251, in wrapper
+    return self.admin_view(view, cacheable)(*args, **kwargs)
+  File "/home/rkboostc/virtualenv/django_test/3.7/lib/python3.7/site-packages/django/utils/decorators.py", line 130, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "/home/rkboostc/virtualenv/django_test/3.7/lib/python3.7/site-packages/django/views/decorators/cache.py", line 44, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+  File "/home/rkboostc/virtualenv/django_test/3.7/lib/python3.7/site-packages/django/contrib/admin/sites.py", line 233, in inner
+    return view(request, *args, **kwargs)
+  File "/home/rkboostc/virtualenv/django_test/3.7/lib/python3.7/site-packages/django/views/decorators/cache.py", line 44, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+  File "/home/rkboostc/virtualenv/django_test/3.7/lib/python3.7/site-packages/django/contrib/admin/sites.py", line 502, in index
+    app_list = self.get_app_list(request)
+  File "/home/rkboostc/virtualenv/django_test/3.7/lib/python3.7/site-packages/django/contrib/admin/sites.py", line 485, in get_app_list
+    app_dict = self._build_app_dict(request)
+  File "/home/rkboostc/virtualenv/django_test/3.7/lib/python3.7/site-packages/django/contrib/admin/sites.py", line 452, in _build_app_dict
+    model_dict['admin_url'] = reverse('admin:%s_%s_changelist' % info, current_app=self.name)
+  File "/home/rkboostc/virtualenv/django_test/3.7/lib/python3.7/site-packages/django/urls/base.py", line 55, in reverse
+    app_list = resolver.app_dict[ns]
+  File "/home/rkboostc/virtualenv/django_test/3.7/lib/python3.7/site-packages/django/urls/resolvers.py", line 522, in app_dict
+    self._populate()
+  File "/home/rkboostc/virtualenv/django_test/3.7/lib/python3.7/site-packages/django/urls/resolvers.py", line 457, in _populate
+    p_pattern = url_pattern.pattern.regex.pattern
+AttributeError: 'list' object has no attribute 'pattern'
+Not Found: /
+Not Found: /
+Not Found: /
+Not Found: /
+Not Found: /
+Internal Server Error: /
+Traceback (most recent call last):
+  File "/home/rkboostc/virtualenv/django_test/3.7/lib/python3.7/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/rkboostc/virtualenv/django_test/3.7/lib/python3.7/site-packages/django/core/handlers/base.py", line 179, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/rkboostc/django_test/project/urls.py", line 22, in index
+    return HttpResponse('Hello world')
+NameError: name 'HttpResponse' is not defined
+Internal Server Error: /
+Traceback (most recent call last):
+  File "/home/rkboostc/virtualenv/django_test/3.7/lib/python3.7/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/rkboostc/virtualenv/django_test/3.7/lib/python3.7/site-packages/django/core/handlers/base.py", line 179, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/rkboostc/django_test/project/urls.py", line 22, in index
+    return HttpResponse('Hello world')
+NameError: name 'HttpResponse' is not defined
+Internal Server Error: /
+Traceback (most recent call last):
+  File "/home/rkboostc/virtualenv/django_test/3.7/lib/python3.7/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/rkboostc/virtualenv/django_test/3.7/lib/python3.7/site-packages/django/core/handlers/base.py", line 179, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/rkboostc/django_test/project/urls.py", line 22, in index
+    return HttpResponse('Hello world')
+NameError: name 'HttpResponse' is not defined
+Internal Server Error: /
+Traceback (most recent call last):
+  File "/home/rkboostc/virtualenv/django_test/3.7/lib/python3.7/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/rkboostc/virtualenv/django_test/3.7/lib/python3.7/site-packages/django/core/handlers/base.py", line 179, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/rkboostc/django_test/project/urls.py", line 22, in index
+    return HttpResponse('Hello world')
+NameError: name 'HttpResponse' is not defined
+Internal Server Error: /
+Traceback (most recent call last):
+  File "/home/rkboostc/virtualenv/django_test/3.7/lib/python3.7/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/rkboostc/virtualenv/django_test/3.7/lib/python3.7/site-packages/django/core/handlers/base.py", line 179, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/rkboostc/django_test/project/urls.py", line 22, in index
+    return HttpResponse('Hello world')
+NameError: name 'HttpResponse' is not defined
+Internal Server Error: /
+Traceback (most recent call last):
+  File "/home/rkboostc/virtualenv/django_test/3.7/lib/python3.7/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/rkboostc/virtualenv/django_test/3.7/lib/python3.7/site-packages/django/core/handlers/base.py", line 179, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/rkboostc/django_test/project/urls.py", line 22, in index
+    return HttpResponse('Hello world')
+NameError: name 'HttpResponse' is not defined
+Internal Server Error: /
+Traceback (most recent call last):
+  File "/home/rkboostc/virtualenv/django_test/3.7/lib/python3.7/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/rkboostc/virtualenv/django_test/3.7/lib/python3.7/site-packages/django/core/handlers/base.py", line 179, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/rkboostc/django_test/project/urls.py", line 22, in index
+    return HttpResponse('Hello world')
+NameError: name 'HttpResponse' is not defined
+Internal Server Error: /
+Traceback (most recent call last):
+  File "/home/rkboostc/virtualenv/django_test/3.7/lib/python3.7/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/rkboostc/virtualenv/django_test/3.7/lib/python3.7/site-packages/django/core/handlers/base.py", line 179, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/rkboostc/django_test/project/urls.py", line 22, in index
+    return HttpResponse('Hello world')
+NameError: name 'HttpResponse' is not defined
+Internal Server Error: /
+Traceback (most recent call last):
+  File "/home/rkboostc/virtualenv/django_test/3.7/lib/python3.7/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/rkboostc/virtualenv/django_test/3.7/lib/python3.7/site-packages/django/core/handlers/base.py", line 179, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/rkboostc/django_test/project/urls.py", line 22, in index
+    return HttpResponse('Hello world')
+NameError: name 'HttpResponse' is not defined
+Internal Server Error: /
+Traceback (most recent call last):
+  File "/home/rkboostc/virtualenv/django_test/3.7/lib/python3.7/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/rkboostc/virtualenv/django_test/3.7/lib/python3.7/site-packages/django/core/handlers/base.py", line 179, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/rkboostc/django_test/project/urls.py", line 22, in index
+    return HttpResponse('Hello world')
+NameError: name 'HttpResponse' is not defined
+Internal Server Error: /
+Traceback (most recent call last):
+  File "/home/rkboostc/virtualenv/django_test/3.7/lib/python3.7/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/rkboostc/virtualenv/django_test/3.7/lib/python3.7/site-packages/django/core/handlers/base.py", line 179, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/rkboostc/django_test/project/urls.py", line 22, in index
+    return HttpResponse('Hello world')
+NameError: name 'HttpResponse' is not defined
+Internal Server Error: /
+Traceback (most recent call last):
+  File "/home/rkboostc/virtualenv/django_test/3.7/lib/python3.7/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/rkboostc/virtualenv/django_test/3.7/lib/python3.7/site-packages/django/core/handlers/base.py", line 179, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/rkboostc/django_test/project/urls.py", line 22, in index
+    return HttpResponse('Hello world')
+NameError: name 'HttpResponse' is not defined

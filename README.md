@@ -11,3 +11,9 @@ cp -a /home/rkboostc/me/rkboost/. /home/rkboostc/me
 pip install -r requirements.txt
 python manage.py collectstatic
 ```
+#### in passenger_wsgi.py
+just add this and remove rest 
+```python
+from project_folder_name.wsgi import application 
+## project_folder_name ==> where the settings and wsgi is located
+```

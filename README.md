@@ -14,5 +14,6 @@ python manage.py collectstatic
 #### in passenger_wsgi.py
 just add this and remove rest 
 ```python
-from project.wsgi import application 
+from project_folder_name.wsgi import application 
+## project_folder_name ==> where the settings and wsgi is located
 ```
